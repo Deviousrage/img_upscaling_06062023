@@ -1,2 +1,3 @@
 # img_upscaling_06062023
-image upscaling to higher resolution, test for GAN scheme
+Image upscaling to higher resolution, test for GAN scheme
+This repository does not contain trained weights and training data
