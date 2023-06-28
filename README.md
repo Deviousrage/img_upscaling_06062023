@@ -7,3 +7,7 @@ The content of the notebook I found at the beginning doesn't make much sense. At
 
   08062023_modified_version.ipynb  
 Next one. Here I used a scheme submitted in the paper https://arxiv.org/abs/1609.04802 . Adjusted some numbers, but in the end it didn't work. Launch cause kernel death. In most cases it mean that memory overflows, but lack of setting's abilities and mostly auto corrections in layers, I can't easily approve it
+
+Currently all training images stored on my local hard drive and calculation made with specific environment for utilization GPU. So i can't guarantee it will run anywhere else
+
+TODO: write environment specification
