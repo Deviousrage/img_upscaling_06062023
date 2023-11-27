@@ -1,6 +1,7 @@
 # img_upscaling_06062023,27112023
 Image upscaling to higher resolution, test for GAN scheme  
-This repository does not contain trained weights and training data  
+inspired by:  https://arxiv.org/abs/1609.04802  
+This repository does not contain trained weights or training data  
 
 ## Some settings
   Generator with 22 blocks of layers and 1,697,155 trainable parameters, full convolutional  
