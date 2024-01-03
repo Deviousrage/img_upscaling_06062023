@@ -17,7 +17,8 @@ Currently all training images stored on my local hard drive and calculation made
 ## Results
 
 input:  
-![input](https://github.com/Deviousrage/img_upscaling_06062023/assets/124791262/5ca6b030-1ac4-4348-822e-60519eb8c154)  
+![input_stretched](https://github.com/Deviousrage/img_upscaling_06062023/assets/124791262/34cd5223-24df-4359-b855-a9306cd84e57) 
+
 
 30 epochs: 
 ![generated_output_2024-01-02_12-52-10](https://github.com/Deviousrage/img_upscaling_06062023/assets/124791262/288e032d-f9cd-45a8-ae5b-9650328e5e70) 
