@@ -1,4 +1,4 @@
-# img_upscaling_06062023,27112023
+# gan_training.ipynb 2024-01-03
 Image upscaling to higher resolution, test for GAN scheme  
 inspired by:  https://arxiv.org/abs/1609.04802  
 This repository does not contain trained weights or training data  
@@ -19,8 +19,12 @@ Currently all training images stored on my local hard drive and calculation made
 input:  
 ![input](https://github.com/Deviousrage/img_upscaling_06062023/assets/124791262/5ca6b030-1ac4-4348-822e-60519eb8c154)  
 
-output 40 epochs: 
-![generated_output_2023-12-18_05-30-44](https://github.com/Deviousrage/img_upscaling_06062023/assets/124791262/86be8219-1164-410e-ad6c-7595190b312b)
+30 epochs: 
+![generated_output_2024-01-02_12-52-10](https://github.com/Deviousrage/img_upscaling_06062023/assets/124791262/288e032d-f9cd-45a8-ae5b-9650328e5e70) 
+
+
+50 epochs: 
+![generated_output_2024-01-03_12-48-07](https://github.com/Deviousrage/img_upscaling_06062023/assets/124791262/e37ac9cf-fc0e-4530-b6b1-c97f9055d4f4) 
 
 
 ## TODO: 
